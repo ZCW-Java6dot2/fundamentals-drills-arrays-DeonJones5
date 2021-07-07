@@ -116,6 +116,7 @@ public class TestStringUtilities {
 
         // : Then
         Assert.assertEquals(expected.toString(), actual.toString());
+
     }
 
 
